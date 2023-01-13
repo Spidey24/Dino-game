@@ -1,5 +1,5 @@
 # Dino-game
->> Dino game using Pygame using Pygame 
+Dino game using Pygame using Pygame 
 ##Prequisite
 1)Python-basics 
 2)Pygame
